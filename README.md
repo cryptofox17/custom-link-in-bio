@@ -4,6 +4,8 @@
 
 I wanted to create a link-in-bio webpage. Although there are many services and templates available I thought it would be fun to design and code one from scratch. 
 
+Here's the completed site : [cryptofoxlinks](https://cryptofoxlinks.netlify.app/)
+
 It took me nearly 3 days to complete it since I spent a lot of time on the illustration and design. 
 
 Overall I enjoyed the process and I got explore and use some new tools ([Polypane](https://polypane.app/) and [Clip Studio Paint](https://www.clipstudio.net/en/)).
